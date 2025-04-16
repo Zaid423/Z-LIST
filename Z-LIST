@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Z-LIST - Hip Hop Artists</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Z-LIST</h1>
+      <p>Featuring Top Hip Hop Artists</p>
+    </header>
+
+    <div class="artist-grid">
+      <!-- Playboi Carti -->
+      <div class="artist-card">
+        <h3>Playboi Carti</h3>
+        <ul>
+          <li>Magnolia</li>
+          <li>Flex</li>
+          <li>Long Time</li>
+        </ul>
+      </div>
+
+      <!-- Travis Scott -->
+      <div class="artist-card">
+        <h3>Travis Scott</h3>
+        <ul>
+          <li>SICKO MODE</li>
+          <li>Goosebumps</li>
+          <li>STARGAZING</li>
+        </ul>
+      </div>
+
+      <!-- Lil Uzi Vert -->
+      <div class="artist-card">
+        <h3>Lil Uzi Vert</h3>
+        <ul>
+          <li>XO TOUR Llif3</li>
+          <li>Money Longer</li>
+          <li>The Way Life Goes</li>
+        </ul>
+      </div>
+
+      <!-- Add more artist cards here -->
+    </div>
+  </div>
+</body>
+</html>
